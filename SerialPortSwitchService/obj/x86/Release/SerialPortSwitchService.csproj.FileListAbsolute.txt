@@ -1,0 +1,8 @@
+C:\Users\jessica\Documents\Visual Studio 2010\Projects\SerialPortSwitchService\SerialPortSwitchService\bin\Release\SerialPortSwitchService.exe
+C:\Users\jessica\Documents\Visual Studio 2010\Projects\SerialPortSwitchService\SerialPortSwitchService\bin\Release\SerialPortSwitchService.pdb
+C:\Users\jessica\Documents\Visual Studio 2010\Projects\SerialPortSwitchService\SerialPortSwitchService\bin\Release\BrewduinoCatalogLib.dll
+C:\Users\jessica\Documents\Visual Studio 2010\Projects\SerialPortSwitchService\SerialPortSwitchService\bin\Release\BrewduinoCatalogLib.pdb
+C:\Users\jessica\Documents\Visual Studio 2010\Projects\SerialPortSwitchService\SerialPortSwitchService\obj\x86\Release\SerialPortSwitchService.exe
+C:\Users\jessica\Documents\Visual Studio 2010\Projects\SerialPortSwitchService\SerialPortSwitchService\obj\x86\Release\SerialPortSwitchService.pdb
+C:\Users\jessica\documents\visual studio 2010\Projects\SerialPortSwitchService\SerialPortSwitchService\bin\Release\System.ServiceModel.dll
+C:\Users\jessica\documents\visual studio 2010\Projects\SerialPortSwitchService\SerialPortSwitchService\obj\x86\Release\SerialPortSwitchService.csprojResolveAssemblyReference.cache

@@ -1,0 +1,17 @@
+C:\Users\jessica\documents\visual studio 2010\Projects\SerialPortSwitchService\SerialPortSwitchService\bin\Debug\SerialPortSwitchService.exe
+C:\Users\jessica\documents\visual studio 2010\Projects\SerialPortSwitchService\SerialPortSwitchService\bin\Debug\SerialPortSwitchService.pdb
+C:\Users\jessica\documents\visual studio 2010\Projects\SerialPortSwitchService\SerialPortSwitchService\bin\Debug\BrewduinoCatalogLib.dll
+C:\Users\jessica\documents\visual studio 2010\Projects\SerialPortSwitchService\SerialPortSwitchService\bin\Debug\BrewduinoCatalogLib.pdb
+C:\Users\jessica\documents\visual studio 2010\Projects\SerialPortSwitchService\SerialPortSwitchService\obj\x86\Debug\SerialPortSwitchService.csprojResolveAssemblyReference.cache
+C:\Users\jessica\documents\visual studio 2010\Projects\SerialPortSwitchService\SerialPortSwitchService\obj\x86\Debug\SerialPortSwitchService.exe
+C:\Users\jessica\documents\visual studio 2010\Projects\SerialPortSwitchService\SerialPortSwitchService\obj\x86\Debug\SerialPortSwitchService.pdb
+C:\Users\jessica\documents\visual studio 2010\Projects\SerialPortSwitchService\SerialPortSwitchService\bin\Debug\System.ServiceModel.dll
+C:\Users\jessica\Documents\GitHub\SerialPortSwitchServiceRest\SerialPortSwitchService\obj\x86\Debug\SerialPortSwitchService.exe
+C:\Users\jessica\Documents\GitHub\SerialPortSwitchServiceRest\SerialPortSwitchService\obj\x86\Debug\SerialPortSwitchService.pdb
+C:\Users\jessica\Documents\GitHub\SerialPortSwitchServiceRest\SerialPortSwitchService\bin\Debug\SerialPortSwitchService.exe.config
+C:\Users\jessica\Documents\GitHub\SerialPortSwitchServiceRest\SerialPortSwitchService\bin\Debug\SerialPortSwitchService.exe
+C:\Users\jessica\Documents\GitHub\SerialPortSwitchServiceRest\SerialPortSwitchService\bin\Debug\SerialPortSwitchService.pdb
+C:\Users\jessica\Documents\GitHub\SerialPortSwitchServiceRest\SerialPortSwitchService\bin\Debug\BrewduinoCatalogLib.dll
+C:\Users\jessica\Documents\GitHub\SerialPortSwitchServiceRest\SerialPortSwitchService\bin\Debug\System.ServiceModel.dll
+C:\Users\jessica\Documents\GitHub\SerialPortSwitchServiceRest\SerialPortSwitchService\bin\Debug\BrewduinoCatalogLib.pdb
+C:\Users\jessica\Documents\GitHub\SerialPortSwitchServiceRest\SerialPortSwitchService\obj\x86\Debug\SerialPortSwitchService.csprojResolveAssemblyReference.cache

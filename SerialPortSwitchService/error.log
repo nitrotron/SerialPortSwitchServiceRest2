@@ -1,0 +1,7 @@
+Could not load signature of SerialPortSwitchService.SerialSwitchServiceHost:SendCommand due to: Could not load file or assembly or one of its dependencies.
+Could not load signature of SerialPortSwitchService.ArduinoSelfHost:SendCommand due to: Could not load file or assembly or one of its dependencies.
+
+Unhandled Exception:
+System.TypeLoadException: Could not load type 'SerialPortSwitchService.SerialSwitchServiceHost' from assembly 'SerialSwitchServiceHost, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null'.
+[ERROR] FATAL UNHANDLED EXCEPTION: System.TypeLoadException: Could not load type 'SerialPortSwitchService.SerialSwitchServiceHost' from assembly 'SerialSwitchServiceHost, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null'.
+
